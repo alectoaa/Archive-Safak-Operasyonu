@@ -28,5 +28,5 @@ Through this project, I gained hands-on experience in:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/KULLANICI_ADI/Safak-Operasyonu-2D.git](https://github.com/KULLANICI_ADI/Safak-Operasyonu-2D.git)
+   git clone [https://github.com/alectoaa/Archive-Safak-Operasyonu.git](https://github.com/alectoaa/Archive-Safak-Operasyonu.git)
    cd Safak-Operasyonu-2D
