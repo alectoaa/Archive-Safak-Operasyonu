@@ -1,4 +1,4 @@
-# 🎮 Şafak Operasyonu (2D Game Prototype)
+# Şafak Operasyonu (2D Game Prototype)
 
 > **Archive Notice:** This repository contains an early-stage 2D game project developed during the foundational phase of my software engineering journey. It reflects my initial exploration of game loops, object-oriented programming (OOP), and event-driven architecture in Python.
 
@@ -18,13 +18,13 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 * **Language:** Python 3.x
 * **Library:** Pygame
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
